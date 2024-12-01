@@ -1,0 +1,30 @@
+.main{
+    padding: 2rem;
+    background-color: antiquewhite;
+    border-radius: .2rem;
+}
+.container{
+width: 100%;
+
+display: flex;
+align-items: center;
+justify-content: center;
+height: auto;
+flex-flow: column;
+gap: 1rem;
+
+
+}
+
+.image{
+    width: 12rem;
+    height: auto;
+}
+.img{
+    width: 100%;
+}
+.priceContainer{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
